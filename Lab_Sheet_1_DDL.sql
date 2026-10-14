@@ -1,5 +1,5 @@
 -- Lab Sheet 1: DDL Commands
--- Run in MySQL Workbench
+
 
 -- 1. Create database
 CREATE DATABASE IF NOT EXISTS CollegeDB;
